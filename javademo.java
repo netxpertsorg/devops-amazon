@@ -5,3 +5,5 @@ System.out.println(This sentence will produce an error);
 Im from dev branch
 Im From QA
 New Update
+print("Hello")
+print('Hello')
