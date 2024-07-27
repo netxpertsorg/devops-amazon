@@ -8,3 +8,4 @@ switch(expression) {
   default:
     // code block
 }
+One
